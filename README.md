@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My skills</h2>
+<h2 align="left">My main skills</h2>
 
 ###
 
